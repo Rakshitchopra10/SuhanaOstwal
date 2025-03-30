@@ -66,7 +66,7 @@ const riddles = [
     },
     {
         question: "Two fathers and 2 sons spent the day fishing, but only caught 3 fish. This was enough for each of them to have one fish. How is this possible?",
-        options: ["They shared the fish", "They caught more fish", "They didn't eat all the fish", "There were 3 people (grandfather, father, and son)"],
+        options: ["They shared the fish", "They caught more fish", "They didn't eat all the fish", "There were 3 people"],
         correct: 3
     },
     // Animal Riddles
