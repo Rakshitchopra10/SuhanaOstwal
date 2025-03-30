@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://suhanaostwal.linkpc.net/sitemap.xml 
